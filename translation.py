@@ -2,8 +2,9 @@ import os
 from config import Config
 
 class Translation(object):
-  START_TXT = """<b>Hi  {}!!</b>
+  START_TXT = """<b>Hi  {}💖</b>
 <i>I'm @drchetancreations an advanced forward bot with some useful features!
+
 Check /help menu to know more 😼 </i>"""
   CAPTION = "`{}`\n\n" + str(Config.CAPTION)
   HELP_TXT = """<b>Follow These Steps!!
