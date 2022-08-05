@@ -21,8 +21,8 @@ Check /help menu to know more 😼 </i>"""
 * /restart - <i>Server Restart</i>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 
-<b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>Dark Angel</code>
+<b>Name :</b> <code>Forward Bot</code>
+<b>Credit :</b> <code>DRCHETANCREATION</code>
 <b>Language :</b> <code>Python3</code>
 <b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
 <b>Server :</b> <code>Heroku</code>
