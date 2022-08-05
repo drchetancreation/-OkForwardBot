@@ -19,7 +19,7 @@ async def start(client, message):
         InlineKeyboardButton('Update Channel ♻️', url='https://t.me/drchetancreations')
         ],[
         InlineKeyboardButton('💡 SouceCode', url='https://github.com/drchetancreation'),
-        InlineKeyboardButton('String Session 🎻', url ='https://telegram.com/SessionStringGeneratorCBot')
+        InlineKeyboardButton('🆔BOT', url ='https://telegram.com/Idsdbot')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await client.send_message(
